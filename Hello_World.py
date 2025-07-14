@@ -1,0 +1,1 @@
+print('Hellow world! I will be learning Python now, I will succeed, and be grate!')
